@@ -4509,3 +4509,60 @@ exception='com.google.gson.JsonSyntaxException: Unknown item 'theurgy:divination
 [01Apr2025 17:26:26.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2178, y=63, z=-2777}
 [01Apr2025 17:26:26.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2176, y=63, z=-2776}
 [01Apr2025 17:26:26.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2176, y=64, z=-2776}
+[01Apr2025 17:26:33.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT is bleeding. KINGSODYS_LT was slain by Vex
+[01Apr2025 17:26:33.947] [Server thread/WARN] [tombstone/]: The death event of the player KINGSODYS_LT was canceled by another mod
+[01Apr2025 17:26:33.956] [Server thread/INFO] [tombstone/]: The player KINGSODYS_LT has successfully been saved
+[01Apr2025 17:26:39.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT was slain by Vex
+[01Apr2025 17:27:00.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KINGSODYS_LT lost connection: Disconnected
+[01Apr2025 17:27:00.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT left the game
+[01Apr2025 17:27:00.955] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KINGSODYS_LT
+[01Apr2025 17:27:21.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set lentojas0's game mode to Creative Mode]
+[01Apr2025 17:27:27.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set lentojas0's game mode to Survival Mode]
+[01Apr2025 17:27:28.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set lentojas0's game mode to Creative Mode]
+[01Apr2025 17:28:26.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b2217cf
+[01Apr2025 17:28:27.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KINGSODYS_LT[/127.68.112.216:49121] logged in with entity id 8684 at (2178.9658308436474, 63.0, -2778.3447868533967)
+[01Apr2025 17:28:27.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT joined the game
+[01Apr2025 17:28:27.291] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:28:27.564] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KINGSODYS_LT (18)
+[01Apr2025 17:28:27.565] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KINGSODYS_LT
+[01Apr2025 17:28:46.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2177, y=63, z=-2772}
+[01Apr2025 17:28:47.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KINGSODYS_LT lost connection: Disconnected
+[01Apr2025 17:28:47.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT left the game
+[01Apr2025 17:28:47.948] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KINGSODYS_LT
+[01Apr2025 17:29:05.445] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@709bf4d7
+[01Apr2025 17:29:06.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KINGSODYS_LT[/127.68.112.216:52335] logged in with entity id 9038 at (2176.3731073019812, 63.0, -2774.699999988079)
+[01Apr2025 17:29:06.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT joined the game
+[01Apr2025 17:29:06.273] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:29:06.448] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KINGSODYS_LT (18)
+[01Apr2025 17:29:06.448] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KINGSODYS_LT
+[01Apr2025 17:29:54.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Apr2025 17:30:27.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KINGSODYS_LT moved too quickly! -1.0923090196981775,-2.0,-9.98578108151014
+[01Apr2025 17:30:27.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[01Apr2025 17:30:35.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KINGSODYS_LT moved too quickly! -9.5328559458776,0.0,3.809712036934343
+[01Apr2025 17:30:50.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set lentojas0's game mode to Survival Mode]
+[01Apr2025 17:31:53.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 17:31:59.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KINGSODYS_LT lost connection: Disconnected
+[01Apr2025 17:31:59.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT left the game
+[01Apr2025 17:31:59.649] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KINGSODYS_LT
+[01Apr2025 17:32:56.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 17:35:39.910] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78466d8c
+[01Apr2025 17:35:40.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KINGSODYS_LT[/127.68.112.216:36281] logged in with entity id 11599 at (2176.5007296866997, 62.0, -2765.300000011921)
+[01Apr2025 17:35:40.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT joined the game
+[01Apr2025 17:35:40.910] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:35:41.084] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KINGSODYS_LT (18)
+[01Apr2025 17:35:41.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KINGSODYS_LT
+[01Apr2025 17:35:55.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2175, y=62, z=-2766}
+[01Apr2025 17:35:55.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2175, y=63, z=-2766}
+[01Apr2025 17:35:55.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2175, y=63, z=-2766}
+[01Apr2025 17:35:55.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2175, y=62, z=-2766}
+[01Apr2025 17:35:56.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2175, y=62, z=-2766}
+[01Apr2025 17:35:56.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2174, y=62, z=-2767}
+[01Apr2025 17:35:56.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2174, y=62, z=-2768}
+[01Apr2025 17:35:56.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2176, y=62, z=-2770}
+[01Apr2025 17:35:56.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2177, y=62, z=-2770}
+[01Apr2025 17:36:30.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 17:36:33.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 17:36:37.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 17:37:05.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lentojas0 lost connection: Disconnected
+[01Apr2025 17:37:05.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lentojas0 left the game
+[01Apr2025 17:37:05.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lentojas0

@@ -161,6 +161,18 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_orange_double": {
+    "criteria": {
+      "has_alt_item": "2025-04-01 17:31:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_purple_double": {
+    "criteria": {
+      "has_alt_item": "2025-04-01 17:31:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-31 17:46:15 +0000"
@@ -796,9 +808,21 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-03-31 20:07:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-04-01 17:31:12 +0000"
     },
     "done": true
   },
@@ -907,6 +931,12 @@
   "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 18:16:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/purple_petal_block": {
+    "criteria": {
+      "has_item": "2025-04-01 17:31:08 +0000"
     },
     "done": true
   },
@@ -1174,6 +1204,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-31 19:17:30 +0000"
@@ -1321,6 +1357,12 @@
   "cfm:recipes/cfm/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-31 20:07:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 17:26:13 +0000"
     },
     "done": true
   },
@@ -1552,6 +1594,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-03-31 18:20:47 +0000"
@@ -1575,6 +1623,12 @@
       "has_cobblestone": "2025-03-31 18:08:50 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1745,6 +1799,12 @@
       "has_log": "2025-03-31 17:47:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -2011,6 +2071,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-31 18:08:05 +0000"
@@ -2263,6 +2329,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 17:25:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-31 17:47:49 +0000"
@@ -2302,6 +2374,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-31 17:57:14 +0000",
+      "potato": "2025-04-01 17:35:36 +0000",
       "golden_carrot": "2025-03-31 20:00:54 +0000",
       "carrot": "2025-03-31 17:48:41 +0000"
     },
@@ -2679,6 +2752,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-31 17:49:51 +0000"
@@ -2713,6 +2792,12 @@
     "criteria": {
       "has_wood": "2025-03-31 17:55:50 +0000",
       "has_the_recipe": "2025-03-31 17:55:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-01 17:26:04 +0000"
     },
     "done": true
   },
@@ -2896,6 +2981,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-31 17:47:49 +0000"
@@ -2905,6 +2996,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 19:29:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/purple_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-04-01 17:31:08 +0000"
     },
     "done": true
   },
@@ -3035,6 +3132,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/orange_petal_block": {
+    "criteria": {
+      "has_item": "2025-04-01 17:31:12 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2025-03-31 17:47:49 +0000"
@@ -3050,6 +3153,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-04-01 16:56:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_purple": {
+    "criteria": {
+      "has_item": "2025-04-01 17:31:08 +0000"
     },
     "done": true
   },
@@ -3419,6 +3528,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2025-04-01 17:31:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_white": {
     "criteria": {
       "has_item": "2025-03-31 18:07:32 +0000"
@@ -3587,6 +3702,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-31 17:42:20 +0000"
@@ -3596,6 +3717,13 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-31 17:43:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-01 17:36:53 +0000",
+      "log_spam_fixer": "2025-04-01 17:36:34 +0000"
     },
     "done": true
   },
