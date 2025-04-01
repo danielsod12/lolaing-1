@@ -3048,6 +3048,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-04-01 15:29:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 17:44:19 +0000"
@@ -3375,6 +3381,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-01 15:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-01 15:29:45 +0000"
     },
     "done": true
   },

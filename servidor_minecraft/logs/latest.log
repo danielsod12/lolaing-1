@@ -4494,3 +4494,22 @@ exception='com.google.gson.JsonSyntaxException: Unknown item 'theurgy:divination
 [01Apr2025 15:25:35.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
 [01Apr2025 15:27:39.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
 [01Apr2025 15:27:45.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:34:31.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:34:32.873] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20658dce
+[01Apr2025 15:34:37.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KINGSODYS_LT moved wrongly!
+[01Apr2025 15:34:41.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:35:30.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:35:33.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:35:43.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:35:49.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:35:52.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:37:08.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:37:24.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:37:34.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:38:08.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:38:49.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 15:38:53.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
+[01Apr2025 15:41:22.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[01Apr2025 15:41:44.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7120ms or 142 ticks behind
+[01Apr2025 15:42:07.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8293ms or 165 ticks behind
+[01Apr2025 15:42:27.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4766ms or 95 ticks behind

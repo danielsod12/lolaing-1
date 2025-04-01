@@ -492,6 +492,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-04-01 15:34:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-31 20:19:45 +0000"
@@ -671,6 +677,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-31 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-01 15:32:27 +0000"
     },
     "done": true
   },
@@ -1385,6 +1397,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-31 20:19:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-04-01 15:34:14 +0000"
     },
     "done": true
   },
@@ -2352,6 +2370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-01 15:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-31 20:12:58 +0000"
@@ -2566,6 +2590,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:44:50 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-04-01 15:34:14 +0000"
     },
     "done": true
   },
@@ -2908,6 +2938,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-01 15:30:12 +0000"
     },
     "done": true
   },
