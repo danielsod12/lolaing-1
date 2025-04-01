@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-04-01 15:55:51 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -134,6 +146,12 @@
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-04-01 16:03:13 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
     },
     "done": true
   },
@@ -200,6 +218,18 @@
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-01 16:21:49 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
     },
     "done": true
   },
@@ -335,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-03-31 19:45:03 +0000"
@@ -401,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:44:50 +0000"
@@ -410,6 +452,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-03-31 19:57:55 +0000",
+      "entered_hay_storage": "2025-04-01 16:43:17 +0000",
       "entered_druid_circle": "2025-04-01 15:56:52 +0000",
       "entered_ruined_building": "2025-03-31 19:43:49 +0000",
       "entered_jungle_monument": "2025-04-01 16:00:31 +0000"
@@ -449,6 +492,12 @@
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-03-31 19:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -578,9 +627,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-04-01 15:34:14 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
     },
     "done": true
   },
@@ -605,6 +666,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-31 20:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -722,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-03-31 19:46:58 +0000"
@@ -744,6 +817,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-31 20:41:43 +0000",
       "minecraft:spider": "2025-03-31 20:41:41 +0000",
+      "minecraft:enderman": "2025-04-01 16:25:57 +0000",
       "minecraft:zombie": "2025-03-31 19:59:37 +0000"
     },
     "done": false
@@ -904,6 +978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-31 19:46:24 +0000"
@@ -913,6 +993,12 @@
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
     },
     "done": true
   },
@@ -1078,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-01 16:21:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-03-31 19:44:50 +0000"
@@ -1135,6 +1227,12 @@
   "cfm:recipes/cfm/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-31 20:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -1216,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-01 16:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-31 19:46:58 +0000"
@@ -1234,6 +1338,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-03-31 19:48:52 +0000"
@@ -1243,6 +1353,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-31 20:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -1309,6 +1425,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
     },
     "done": true
   },
@@ -1384,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-03-31 19:48:51 +0000"
@@ -1450,13 +1578,16 @@
       "minecraft:sunflower_plains": "2025-03-31 19:49:17 +0000",
       "minecraft:birch_forest": "2025-04-01 16:17:35 +0000",
       "minecraft:windswept_hills": "2025-04-01 15:39:52 +0000",
+      "minecraft:savanna_plateau": "2025-04-01 16:23:44 +0000",
       "minecraft:sparse_jungle": "2025-04-01 15:42:41 +0000",
       "minecraft:river": "2025-03-31 18:24:11 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-01 16:32:24 +0000",
       "minecraft:forest": "2025-03-31 20:33:23 +0000",
       "minecraft:jungle": "2025-04-01 15:58:50 +0000",
       "minecraft:flower_forest": "2025-03-31 19:56:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-01 16:17:53 +0000",
       "minecraft:meadow": "2025-03-31 20:32:13 +0000",
+      "minecraft:savanna": "2025-04-01 16:23:20 +0000",
       "minecraft:plains": "2025-03-31 18:22:37 +0000"
     },
     "done": false
@@ -1605,6 +1736,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-01 16:39:10 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-03-31 19:45:03 +0000",
@@ -1738,6 +1875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-01 16:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-03-31 20:31:54 +0000"
@@ -1840,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/panic_button": {
     "criteria": {
       "has_redstone": "2025-04-01 16:03:13 +0000"
@@ -1924,6 +2073,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-04-01 16:29:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-31 20:04:47 +0000"
@@ -1933,6 +2088,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -2122,7 +2283,9 @@
       "apple": "2025-03-31 20:06:45 +0000",
       "potato": "2025-03-31 20:02:42 +0000",
       "mutton": "2025-04-01 16:13:22 +0000",
-      "bread": "2025-03-31 20:12:45 +0000"
+      "bread": "2025-03-31 20:12:45 +0000",
+      "golden_apple": "2025-04-01 16:37:59 +0000",
+      "enchanted_golden_apple": "2025-04-01 16:36:30 +0000"
     },
     "done": false
   },
@@ -2246,6 +2409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-03-31 20:25:47 +0000"
@@ -2285,6 +2454,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-31 20:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -2348,6 +2523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-31 20:12:59 +0000"
@@ -2408,6 +2589,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-01 16:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-31 19:45:03 +0000"
@@ -2444,15 +2631,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-04-01 16:03:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-01 15:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-01 16:03:13 +0000"
     },
     "done": true
   },
@@ -2483,6 +2670,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-01 15:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -2739,6 +2932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-04-01 15:55:51 +0000"
@@ -2950,6 +3149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-01 16:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-31 19:48:47 +0000"
@@ -2995,6 +3200,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-31 19:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-01 16:22:15 +0000"
     },
     "done": true
   },
@@ -3256,6 +3467,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-04-01 16:43:43 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/mythicbotany/rune_holder": {
     "criteria": {
       "criterion0": "2025-03-31 18:28:46 +0000"
@@ -3295,6 +3512,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-01 16:43:43 +0000"
     },
     "done": true
   },
@@ -3496,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-01 16:28:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-03-31 18:28:46 +0000"
@@ -3508,15 +3737,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-04-01 16:03:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 15:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-01 16:03:13 +0000"
     },
     "done": true
   },
