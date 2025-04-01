@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-01 16:56:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-03-31 18:20:47 +0000"
@@ -480,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-01 16:56:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-03-31 18:20:47 +0000"
@@ -790,6 +802,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-04-01 16:56:37 +0000"
+    },
+    "done": true
+  },
   "betteranimalsplus:ultimate_succening": {
     "criteria": {
       "zotz_succ": "2025-03-31 18:08:43 +0000"
@@ -1042,6 +1060,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/animal_dictionary": {
+    "criteria": {
+      "has_items": "2025-04-01 16:56:54 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 17:47:49 +0000"
@@ -1186,6 +1210,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-01 16:56:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-03-31 18:20:47 +0000"
@@ -1249,6 +1279,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-03-31 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-01 16:56:54 +0000"
     },
     "done": true
   },
@@ -1351,6 +1387,12 @@
   "usefulbackpacks:recipes/filter_configurator": {
     "criteria": {
       "has_leather": "2025-03-31 17:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-01 16:56:37 +0000"
     },
     "done": true
   },
@@ -1538,6 +1580,7 @@
     "criteria": {
       "minecraft:taiga": "2025-03-31 20:27:01 +0000",
       "minecraft:sunflower_plains": "2025-03-31 17:54:33 +0000",
+      "minecraft:windswept_hills": "2025-04-01 16:53:55 +0000",
       "minecraft:beach": "2025-03-31 19:56:00 +0000",
       "minecraft:river": "2025-03-31 17:44:19 +0000",
       "minecraft:swamp": "2025-03-31 17:39:21 +0000",
@@ -1579,6 +1622,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-31 20:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-01 16:56:37 +0000"
     },
     "done": true
   },
@@ -1985,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-01 16:56:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-31 20:07:46 +0000"
@@ -2213,6 +2268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-01 16:55:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-03-31 17:47:49 +0000"
@@ -2296,6 +2357,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
     "criteria": {
       "has_log": "2025-03-31 17:47:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-01 16:56:54 +0000"
     },
     "done": true
   },
@@ -2870,6 +2937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-01 16:55:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_the_recipe": "2025-03-31 17:47:49 +0000"
@@ -2952,6 +3025,18 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2025-03-31 17:47:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-04-01 16:56:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-01 16:56:37 +0000"
     },
     "done": true
   },
@@ -3258,6 +3343,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-03-31 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-04-01 16:59:36 +0000"
     },
     "done": true
   },
@@ -3612,6 +3703,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-03-31 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-01 16:56:37 +0000"
     },
     "done": true
   },

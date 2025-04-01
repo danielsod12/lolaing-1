@@ -4729,3 +4729,22 @@ exception='com.google.gson.JsonSyntaxException: Unknown item 'theurgy:divination
 [01Apr2025 16:51:28.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KINGSODYS_LT> esq me encontre bloques
 [01Apr2025 16:51:34.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <daniole131> y no voy a escribir mas por aqui asi que si eso unete a la llamda
 [01Apr2025 16:53:38.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-314, y=56, z=-1084} BlockPos{x=-314, y=57, z=-1084}
+[01Apr2025 16:54:59.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KINGSODYS_LT has reached the goal [Flowers of the Savanna]
+[01Apr2025 16:56:11.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Apr2025 16:56:29.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[01Apr2025 16:56:53.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01Apr2025 16:57:15.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6752ms or 135 ticks behind
+[01Apr2025 16:57:43.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13027ms or 260 ticks behind
+[01Apr2025 16:58:06.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8223ms or 164 ticks behind
+[01Apr2025 16:58:27.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6310ms or 126 ticks behind
+[01Apr2025 16:58:45.756] [Worker-Main-76/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/guiana/villagers
+[01Apr2025 16:58:45.756] [Worker-Main-76/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/guiana/villagers
+[01Apr2025 16:58:46.054] [Worker-Main-76/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/guiana/villagers
+[01Apr2025 16:58:46.054] [Worker-Main-76/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/guiana/villagers
+[01Apr2025 16:58:50.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8034ms or 160 ticks behind
+[01Apr2025 16:59:36.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lentojas0 has made the advancement [A Realistical Logical Ideologist]
+[01Apr2025 17:01:29.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Apr2025 17:01:51.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6722ms or 134 ticks behind
+[01Apr2025 17:02:12.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
+[01Apr2025 17:03:19.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Creative Mode]
+[01Apr2025 17:03:25.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [daniole131: Set own game mode to Survival Mode]
