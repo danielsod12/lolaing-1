@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-03-31 19:43:13 +0000"
@@ -44,6 +50,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-03-31 20:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -89,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-31 20:12:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -152,6 +176,18 @@
   "ironchest:recipes/ironchest/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -371,6 +407,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-04-01 16:27:56 +0000"
@@ -457,8 +499,10 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-04-01 17:07:20 +0000",
       "entered_stables": "2025-03-31 19:57:55 +0000",
       "entered_hay_storage": "2025-04-01 16:43:17 +0000",
+      "entered_pirate_ship": "2025-04-01 17:11:27 +0000",
       "entered_druid_circle": "2025-04-01 15:56:52 +0000",
       "entered_ruined_building": "2025-03-31 19:43:49 +0000",
       "entered_jungle_monument": "2025-04-01 16:00:31 +0000"
@@ -807,6 +851,12 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-04-01 17:23:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-03-31 19:45:03 +0000"
@@ -821,6 +871,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-01 17:21:33 +0000",
       "minecraft:skeleton": "2025-03-31 20:41:43 +0000",
       "minecraft:spider": "2025-03-31 20:41:41 +0000",
       "minecraft:enderman": "2025-04-01 16:25:57 +0000",
@@ -906,6 +957,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2025-03-31 18:28:46 +0000"
@@ -927,6 +984,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -972,6 +1035,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "whisperwoods:recipes/whisperwoods/hand_of_fate": {
     "criteria": {
       "has_blaze_powder": "2025-03-31 18:06:33 +0000"
@@ -993,6 +1062,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-31 19:46:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -1248,6 +1323,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2025-04-01 16:03:13 +0000"
@@ -1464,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-01 15:21:20 +0000"
@@ -1521,6 +1608,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 16:22:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -1597,8 +1690,10 @@
       "minecraft:sparse_jungle": "2025-04-01 15:42:41 +0000",
       "minecraft:river": "2025-03-31 18:24:11 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 16:32:24 +0000",
+      "minecraft:stony_shore": "2025-04-01 17:10:54 +0000",
       "minecraft:forest": "2025-03-31 20:33:23 +0000",
       "minecraft:jungle": "2025-04-01 15:58:50 +0000",
+      "minecraft:ocean": "2025-04-01 17:09:24 +0000",
       "minecraft:flower_forest": "2025-03-31 19:56:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-01 16:17:53 +0000",
       "minecraft:meadow": "2025-03-31 20:32:13 +0000",
@@ -1896,6 +1991,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-03-31 20:31:54 +0000"
@@ -1971,6 +2072,18 @@
   "cfm:recipes/cfm/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-31 20:19:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 17:21:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -2247,6 +2360,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-03-31 18:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-01 17:23:03 +0000"
     },
     "done": true
   },
@@ -2646,6 +2765,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-04-01 17:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-31 18:21:39 +0000"
@@ -2785,6 +2910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-03-31 19:43:58 +0000"
@@ -2848,6 +2979,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-01 15:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -3013,6 +3150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-03-31 18:28:46 +0000"
@@ -3101,6 +3244,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-01 15:49:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -3236,6 +3385,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-04-01 15:34:14 +0000"
@@ -3251,6 +3406,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-03-31 18:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -3287,6 +3448,12 @@
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2025-03-31 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
@@ -3500,15 +3667,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-04-01 16:54:59 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/wood/acacia_banister": {
     "criteria": {
       "has_item": "2025-04-01 16:43:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-04-01 16:54:59 +0000"
     },
     "done": true
   },
@@ -3812,6 +3979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
+    },
+    "done": true
+  },
   "betteranimalsplus:bad_fox": {
     "criteria": {
       "no_bam": "2025-03-31 18:14:23 +0000"
@@ -3881,6 +4054,12 @@
   "cfm:recipes/cfm/oak_coffee_table": {
     "criteria": {
       "has_log": "2025-03-31 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:22:20 +0000"
     },
     "done": true
   },
