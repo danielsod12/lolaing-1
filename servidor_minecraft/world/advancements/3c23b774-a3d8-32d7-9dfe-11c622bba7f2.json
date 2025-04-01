@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-31 19:39:17 +0000"
@@ -428,6 +434,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-31 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -823,6 +835,12 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 18:19:44 +0000"
@@ -908,6 +926,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-03-31 19:39:17 +0000"
@@ -938,9 +962,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-31 17:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -1166,6 +1202,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
     "criteria": {
       "has_item": "2025-03-31 17:55:40 +0000"
@@ -1304,6 +1346,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-03-31 17:55:34 +0000"
@@ -1355,6 +1403,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-31 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -1520,6 +1574,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-01 15:27:54 +0000"
@@ -1543,6 +1603,12 @@
       "has_cobblestone": "2025-03-31 18:02:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1608,6 +1674,12 @@
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2025-03-31 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -1682,6 +1754,12 @@
       "has_log": "2025-03-31 17:43:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1888,6 +1966,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-31 18:15:55 +0000"
@@ -1905,6 +1989,12 @@
       "has_planks": "2025-03-31 19:39:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -2110,6 +2200,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-03-31 17:43:59 +0000"
@@ -2179,6 +2275,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 18:15:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -2441,6 +2543,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 18:13:08 +0000"
@@ -2480,6 +2588,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-31 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -2632,6 +2746,12 @@
       "has_iron_ingot": "2025-03-31 17:55:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
@@ -2910,6 +3030,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-31 17:43:59 +0000"
@@ -2991,6 +3117,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-03-31 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -3088,6 +3220,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-31 18:49:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -3244,6 +3382,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-31 17:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-01 16:02:50 +0000"
     },
     "done": true
   },
@@ -3601,6 +3745,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-31 17:34:12 +0000"
@@ -3612,6 +3762,12 @@
       "has_carrot": "2025-03-31 17:42:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 16:18:24 +0000"
+    },
+    "done": false
   },
   "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
